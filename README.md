@@ -18,7 +18,7 @@ I also enjoy sharing my knowledge through writing and blogging. Here are some of
 
 ## :mailbox: Connect with Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/silentBob) or check out my [personal website](https://silentbob.dev).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/liyuan-sun-09b1682b1) or check out my [personal website](https://www.linkedin.com/in/liyuan-sun-09b1682b1).
 
 ## :hammer_and_wrench: Tools I Use
 
