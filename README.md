@@ -6,7 +6,6 @@ Hi, I’m Liyuan Sun! I bring 4 years of experience as a Product Manager and am 
 - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
 - :speech_balloon: Ask me about **Python**, **JavaScript**, and **web automation**.
 - :mailbox: How to reach me: [liyuansun.924@gmail.com](liyuansun.924@gmail.com)
-- :zap: Fun fact: I can solve a Rubik’s cube in under a minute!
 
 ## Projects
 ### Listenary – AI-powered Podcast Transcription Platform - Stockholm, Sweden 
@@ -23,6 +22,21 @@ Full-Stack Developer · React | Node.js | Firebase | Azure | GitHub
 Full-Stack Developer · Unity | C# | Kinect SDK | Real-Time Systems | Motion Tracking | GitHub 
 - Developed an interactive system to enhance climbing performance using real-time multi-modal feedback. Reduced climbing task completion time by 30% and enhance user experience through frequency-based guidance. 
 - Developed modular components to manage gesture recognition, collision detection, and interactive audio feedback using C#. Integrated dynamic visualizations, sonifications and real-time adjustments in Unity.
+
+## Working experience
+### Corite AB - Stockholm, Sweden 
+02/2025- 05/2025 
+Intern · Aflow - AI tool for automating music artists’ workflow | JavaScript | Python 
+- Analyzed user behavior data to support product iteration roadmap and define core user needs and features.
+- Designed and implemented key retention flows via Iterable API, achieving 50% email click rate, 10% conversion, and 0% unsubscribe. 
+- Integrated 3 new data sources to automate music session generation, reducing manual workload by 70%. Created test use cases and QA protocols to ensure smooth and high-quality feature roll-out.
+
+### Baidu (China) Co., Ltd - Shanghai, China 
+07/2021- 06/2024 
+Product Manager · AI Speech Product Commercialization | Won the "Pioneering Elite Award" 
+- Analyzed customer behavior data to optimize pricing and go-to-market strategies. Drove high-speed growth with an annual revenue increase exceeding 50%. Led cross-functional teams with sales, marketing, operations, UI/UX, SDE, QA and AE. 
+- Improved the recognition accuracy of ASR product by 10% and enhanced readability by 100%. Delivered engaging prototypes and interfaces, improving new customer acquisition by 50% and customer satisfaction by 40%. 
+- Leveraging competitive analysis and user feedback to identify market opportunities, successfully launched 5+ key features of the TTS product which resulted in positioning the Leaders Quadrant in IDC’s report of Chinese AI market 2023.
 
 ## Connect with Me
 
