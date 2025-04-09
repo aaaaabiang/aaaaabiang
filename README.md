@@ -1,4 +1,4 @@
-## About Me :smile:
+## About Me:
 
 Hi, I’m Liyuan Sun! I bring 4 years of experience as a Product Manager and am actively transitioning into technical roles to bridge the gap between innovation and execution. Driven by a passion for practical implementation, I have developed an engineering mindset and coding skills in full-stack development to create impactful solutions.
 
@@ -8,11 +8,27 @@ Hi, I’m Liyuan Sun! I bring 4 years of experience as a Product Manager and am 
 - :mailbox: How to reach me: [liyuansun.924@gmail.com](liyuansun.924@gmail.com)
 - :zap: Fun fact: I can solve a Rubik’s cube in under a minute!
 
-## :mailbox: Connect with Me
+## Projects
+### Listenary – AI-powered Podcast Transcription Platform - Stockholm, Sweden 
+03/2025 - 05/2025 
+Full-Stack Developer · React | Node.js | Firebase | Azure | GitHub 
+- Built a full-stack web app that transcribes podcast episodes into text using Azure Speech-to-Text and DeepL translation API. 
+- Engineered robust backend workflows to parse RSS feeds, process large audio files, and handle transcription failures. 
+- Developed interactive frontend in React for real-time text interaction, including word lookup, translation, and note-taking. 
+- Implemented data persistence with Firebase Firestore to store user history, vocabulary, and preferences
+- Identified API edge cases and latency issues early through internal dogfooding, optimizing reliability and user experience.
+
+### Sound-Assisted Climbing System - Stockholm, Sweden 
+11/2024 - 01/2025 
+Full-Stack Developer · Unity | C# | Kinect SDK | Real-Time Systems | Motion Tracking | GitHub 
+- Developed an interactive system to enhance climbing performance using real-time multi-modal feedback. Reduced climbing task completion time by 30% and enhance user experience through frequency-based guidance. 
+- Developed modular components to manage gesture recognition, collision detection, and interactive audio feedback using C#. Integrated dynamic visualizations, sonifications and real-time adjustments in Unity.
+
+## Connect with Me
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/liyuan-sun-09b1682b1) or check out my [personal website](https://www.linkedin.com/in/liyuan-sun-09b1682b1).
 
-## :hammer_and_wrench: Tools I Use
+## Tools I Use
 
 <p align=“left”>
 <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg” alt=“vscode” width=“30" height=“30”/>
