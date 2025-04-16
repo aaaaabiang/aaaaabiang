@@ -23,6 +23,12 @@ Full-Stack Developer · Unity | C# | Kinect SDK | Real-Time Systems | Motion Tra
 - Developed an interactive system to enhance climbing performance using real-time multi-modal feedback. Reduced climbing task completion time by 30% and enhance user experience through frequency-based guidance. 
 - Developed modular components to manage gesture recognition, collision detection, and interactive audio feedback using C#. Integrated dynamic visualizations, sonifications and real-time adjustments in Unity.
 
+### Big Data Analysis: Exploring Youth Online Interaction Patterns - Stockholm, Sweden 
+04/2020 - 07/2020 
+Data Engineer · Python | Pandas | NumPy | Gensim | Topic Modeling (LDA) | Data Visualization 
+- Conducted large-scale data analysis on a social-media dataset in Jupyter, processing 54,891 user interactions to investigate youth online interests and network structures. Presented findings with statistical and visual outputs.
+- Built and visualized a social network of 1,345 nodes and 2,724 edges using Python libraries (Matplotlib, iGraph). Detected 18 distinct communities. Applied topic modeling (LDA) on textual data to identify 5 key topics.
+
 ## Working experience
 ### Corite AB - Stockholm, Sweden 
 02/2025- 05/2025 
