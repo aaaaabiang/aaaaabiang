@@ -5,7 +5,7 @@ Hi, I’m Liyuan Sun! I bring 4 years of experience as a Product Manager and am 
 - :seedling: I’m currently exploring **Fullstack Developer** and **Data Analysist**.
 - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
 - :speech_balloon: Ask me about **Python**, **JavaScript**, and **web automation**.
-- :mailbox: How to reach me: [liyuansun.924@gmail.com](liyuansun.924@gmail.com)
+- :mailbox: How to reach me: [liyuan.sun924@gmail.com](liyuan.sun924@gmail.com)
 
 ## Projects
 ### Listenary – AI-powered Podcast Transcription Platform - Stockholm, Sweden 
