@@ -9,6 +9,7 @@ Hi, I’m Liyuan Sun! I bring 4 years of experience as a Product Manager and am 
 
 ## Projects
 ### Listenary – AI-powered Podcast Transcription Platform - Stockholm, Sweden 
+[Website](https://listenary-ongoing.fly.dev/)
 03/2025 - 05/2025 
 Full-Stack Developer · React | Node.js | Firebase | Azure | GitHub 
 - Built a full-stack web app that transcribes podcast episodes into text using Azure Speech-to-Text and DeepL translation API. 
@@ -19,6 +20,7 @@ Full-Stack Developer · React | Node.js | Firebase | Azure | GitHub
 
 ### Sound-Assisted Climbing System - Stockholm, Sweden 
 11/2024 - 01/2025 
+[Publication](https://www.researchgate.net/publication/393897855_Sound-Assisted_Climbing_Exploring_bouldering_performance_through_auditory_guidance)
 Full-Stack Developer · Unity | C# | Kinect SDK | Real-Time Systems | Motion Tracking | GitHub 
 - Developed an interactive system to enhance climbing performance using real-time multi-modal feedback. Reduced climbing task completion time by 30% and enhance user experience through frequency-based guidance. 
 - Developed modular components to manage gesture recognition, collision detection, and interactive audio feedback using C#. Integrated dynamic visualizations, sonifications and real-time adjustments in Unity.
