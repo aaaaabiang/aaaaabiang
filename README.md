@@ -2,9 +2,9 @@
 
 Hi, I’m Liyuan Sun! I bring 4 years of experience as a Product Manager and am actively transitioning into technical roles to bridge the gap between innovation and execution. Driven by a passion for practical implementation, I have developed an engineering mindset and coding skills in full-stack development to create impactful solutions.
 
-- :seedling: I’m currently exploring **Fullstack Developer** and **Data Analysist**.
-- :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
-- :speech_balloon: Ask me about **Python**, **JavaScript**, and **web automation**.
+- :seedling: I’m currently exploring **Interaction Engineer**, **Fullstack Developer** and **Data Analysist**.
+- :handshake: I’m looking to collaborate on **AI products** and **innovative applications**.
+- :speech_balloon: Ask me about **Python**, **JavaScript**, and **Product Strategy**.
 - :mailbox: How to reach me: [liyuan.sun924@gmail.com](liyuan.sun924@gmail.com)
 
 ## Projects
@@ -18,10 +18,17 @@ Full-Stack Developer · React | Node.js | Firebase | Azure | GitHub
 - Identified API edge cases and latency issues early through internal dogfooding, optimizing reliability and user experience.
 
 ### [Sound-Assisted Climbing System](https://www.researchgate.net/publication/393897855_Sound-Assisted_Climbing_Exploring_bouldering_performance_through_auditory_guidance) - Stockholm, Sweden 
-11/2024 - 01/2025 
+11/2024 - 11/2025 
 Full-Stack Developer · Unity | C# | Kinect SDK | Real-Time Systems | Motion Tracking | GitHub 
 - Developed an interactive system to enhance climbing performance using real-time multi-modal feedback. Reduced climbing task completion time by 30% and enhance user experience through frequency-based guidance. 
 - Developed modular components to manage gesture recognition, collision detection, and interactive audio feedback using C#. Integrated dynamic visualizations, sonifications and real-time adjustments in Unity.
+
+### [ChewinLove – Wearable Interaction for Co-eating Experience](https://chew-love-rhythm-kit.lovable.app/) - Stockholm, Sweden
+03/2025 - 05/2025
+Interaction Designer & Developer · Arduino | C++ | Electronics | Wearable Device
+- Prototyped a wearable interface with Arduino and textile, capturing subtle chewing signals to explore the co-eating experience in the future.
+- Applied interviews, workshops focusing on elderly people with dysphagia to refine usability, comfort, and trust in human-machine interaction.
+- Designed multimodal feedback mechanisms to investigate how interaction cues can strengthen user confidence and engagement on dinner table.
 
 ### Big Data Analysis: Exploring Youth Online Interaction Patterns - Stockholm, Sweden 
 04/2020 - 07/2020 
@@ -40,9 +47,9 @@ Intern · Aflow - AI tool for automating music artists’ workflow | JavaScript 
 ### Baidu (China) Co., Ltd - Shanghai, China 
 07/2021- 06/2024 
 Product Manager · AI Speech Product Commercialization | Won the "Pioneering Elite Award" 
-- Analyzed customer behavior data to optimize pricing and go-to-market strategies. Drove high-speed growth with an annual revenue increase exceeding 50%. Led cross-functional teams with sales, marketing, operations, UI/UX, SDE, QA and AE. 
-- Improved the recognition accuracy of ASR product by 10% and enhanced readability by 100%. Delivered engaging prototypes and interfaces, improving new customer acquisition by 50% and customer satisfaction by 40%. 
-- Leveraging competitive analysis and user feedback to identify market opportunities, successfully launched 5+ key features of the TTS product which resulted in positioning the Leaders Quadrant in IDC’s report of Chinese AI market 2023.
+- Defined platform roadmap and capability framework, evaluated and integrated ASR/TTS/NLP products. Collaborated with R&D, UX, and GTM teams to drive 50% revenue growth, 40% higher customer satisfaction. 
+- Delivered 20% usability improvement through continuous user analysis, UX optimization, and data loops. Delivered engaging prototypes and interfaces, improving new customer acquisition by 50% and customer satisfaction by 40%. 
+- Analyzed market data to optimize product, pricing, and go-to-market strategies, successfully launched key iterations, which resulted in positioning the Leaders Quadrant in IDC’s report of the Chinese AI market 2023.
 
 ## Connect with Me
 
