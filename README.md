@@ -9,11 +9,11 @@ Hi, I’m Liyuan Sun! I bring 4 years of experience as a Product Manager and am 
 
 ## Projects
 ### [Listenary – AI-powered Podcast Transcription Platform](https://listenary-ongoing.fly.dev/) - Stockholm, Sweden 
-03/2025 - 05/2025 
+03/2025 - 11/2025 
 Full-Stack Developer · React | Node.js | Firebase | Azure | GitHub 
 - Built a full-stack web app that transcribes podcast episodes into text using Azure Speech-to-Text and DeepL translation API. 
 - Engineered robust backend workflows to parse RSS feeds, process large audio files, and handle transcription failures. 
-- Developed interactive frontend in React for real-time text interaction, including word lookup, translation, and note-taking. 
+- Developed an interactive frontend in React for real-time text interaction, including word lookup, translation, and note-taking. 
 - Implemented data persistence with Firebase Firestore to store user history, vocabulary, and preferences
 - Identified API edge cases and latency issues early through internal dogfooding, optimizing reliability and user experience.
 
